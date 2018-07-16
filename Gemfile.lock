@@ -28,7 +28,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.16)
   rake (~> 10.0)
-  rspec (~> 3.0)
+  rspec (~> 3.2)
   word_wrapping!
 
 BUNDLED WITH
