@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rennyvbirds@yahoo.com"]
 
   spec.summary       = %q{Based on the popular kata; word wrapping, wraps words around a maximum column length}
-  spec.description   = %q{"To use, implementWordWrapping::Word.wrap('word',column length)"}
+  spec.description   = %q{"To use, implement WordWrapping::Word.wrap('word',column length)"}
   spec.homepage      = "https://rubygems.org/profiles/Renny"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
