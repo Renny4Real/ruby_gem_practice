@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Based on the popular kata; word wrapping, wraps words around a maximum column length}
   spec.description   = %q{}
-  spec.homepage      = "https://rubygems.org"
+  spec.homepage      = "https://rubygems.org/profiles/Renny"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
