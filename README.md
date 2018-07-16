@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 The method required is called wrap and is a class method for word under this gem's module.
-e.g new_word = word_wrapping.wrap('word',column length)
+e.g new_word = WordWrapping::Word.wrap('word',column length)
 
 
 ## Contributing
